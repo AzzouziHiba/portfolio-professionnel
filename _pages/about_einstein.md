@@ -1,5 +1,7 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Biographie
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Bonjour, je suis Hiba Azzouzi, une étudiante passionnée en Ingénierie de la Santé, spécialisée en Data Science en Santé, actuellement en master à l'Université de Lille. Après avoir obtenu ma licence en Psychologie, avec une spécialisation en Neuropsychologie, j'ai décidé de me tourner vers la data science pour explorer comment elle peut révolutionner la recherche en santé, notamment dans les domaines de la santé mentale et des neurosciences.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Mon parcours est marqué par un fort intérêt pour la gestion des données et son impact sur les résultats de santé, ainsi qu'une volonté de comprendre et d'appliquer les outils de data science les plus récents. Mon objectif est de contribuer à la compréhension de données complexes en santé, en particulier en ce qui concerne la santé mentale et la neuropsychologie.
+
+En plus de mes études, j'ai eu l'opportunité de réaliser des stages et du bénévolat dans le domaine de la neuropsychologie et du social, ce qui m'a permis d'acquérir une expérience concrète face aux défis que rencontrent les patients. Je travaille également sur un projet de web série visant à sensibiliser le public aux enjeux de la santé mentale, en mettant en lumière le contexte culturel du Maroc. 
